@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/PoetList",
+    "pages/PoemDetail",
+    "pages/PoetDetails",
+    "pages/CreditsPage"
+  ],
+  "window": {
+    "designWidth": 720,
+    "autoDesignWidth": true
+  }
+}
